@@ -16,7 +16,7 @@ Challenges faced:
 
 The goal is to **design a conceptual end-to-end data pipeline** to centralize, clean, enrich, and make this data actionable.  
 
-![conceptual image](images/Conceptual\ Pipeline\ Diagram.drawio.png)
+![conceptual image](images/ConceptualPipelineDiagram.drawio.png)
 
 ---
 
